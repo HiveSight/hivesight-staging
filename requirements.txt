@@ -1,0 +1,12 @@
+anthropic
+gspread
+oauth2client
+openai
+numpy
+pandas
+plotly
+policyengine-us
+scipy
+statsmodels
+streamlit
+tiktoken
